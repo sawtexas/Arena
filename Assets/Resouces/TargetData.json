@@ -1,0 +1,88 @@
+{
+	"TargetList": [
+	  {
+		"Name": "Faisal",
+		"FloorNumber": 0,
+		"Position": {
+		  "x": 0.06,
+		  "y": 0.0,
+		  "z": 3.73
+		},
+		"Rotation": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		}
+	  },
+	  {
+		"Name": "Ahmed",
+		"FloorNumber": 0,
+		"Position": {
+		  "x": -6.28,
+		  "y": 0.0,
+		  "z": 1.58
+		},
+		"Rotation": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		}
+	  },
+	  {
+		"Name": "Majed",
+		"FloorNumber": 0,
+		"Position": {
+		  "x": -6.24,
+		  "y": 0.0,
+		  "z": 7.21
+		},
+		"Rotation": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		}
+	  },
+	  {
+		"Name": "StartPoint",
+		"FloorNumber": 0,
+		"Position": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		},
+		"Rotation": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		}
+	  },
+	  {
+		"Name": "Stairs",
+		"FloorNumber": 1,
+		"Position": {
+		  "x": 3.69,
+		  "y": 0.0,
+		  "z": 0.00
+		},
+		"Rotation": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		}
+	  },
+	  {
+		"Name": "Playroom",
+		"FloorNumber": 1,
+		"Position": {
+		  "x": 10.56,
+		  "y": 0.0,
+		  "z": 6.77
+		},
+		"Rotation": {
+		  "x": 0.0,
+		  "y": 0.0,
+		  "z": 0.0
+		}
+	  }
+	]
+  }
